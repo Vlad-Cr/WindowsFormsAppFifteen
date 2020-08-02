@@ -1,0 +1,10 @@
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\bin\Debug\WindowsFormsAppFifteen.exe.config
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\bin\Debug\WindowsFormsAppFifteen.exe
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\bin\Debug\WindowsFormsAppFifteen.pdb
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\obj\Debug\WindowsFormsAppFifteen.csprojAssemblyReference.cache
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\obj\Debug\WindowsFormsAppFifteen.Form1.resources
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\obj\Debug\WindowsFormsAppFifteen.Properties.Resources.resources
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\obj\Debug\WindowsFormsAppFifteen.csproj.GenerateResource.cache
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\obj\Debug\WindowsFormsAppFifteen.csproj.CoreCompileInputs.cache
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\obj\Debug\WindowsFormsAppFifteen.exe
+E:\C# Projects\WindowsFormsAppFifteen\WindowsFormsAppFifteen\obj\Debug\WindowsFormsAppFifteen.pdb
