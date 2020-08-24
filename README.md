@@ -1,7 +1,7 @@
 # WindowsFormsAppFifteen
 ## A Game Fifteen and Helper are developed using WinForms and C#
 
-I have developed a game fifteen with helper that helps the player win the game. Helper uses two methods to solve the puzzle and find the path on the graph. The first is IDA* which based on iterative deepening depth-first search. The second is my own method SEA* (Step evaluation A*), which is based on IDA* but has some modifications.
+I have developed a game fifteen with helper that helps the player win the game. Helper uses two methods to solve the puzzle and find the path on the graph. The first is IDA* which based on iterative deepening depth-first search. The second is my own method SEA* (Step evaluation A*), which based on IDA* but has some modifications.
 
 The project has three main classes: the class Form1 represents field of game, the class Game contains all the logic of the game, the class Helper contains two methods on the graphs.
 
